@@ -1,0 +1,5 @@
+# banc
+En mi trabajo, me interesa la relación que el ser humano puede tener con su entorno, revisando ciertas ideas preconcebidas sobre el espacio y los objetos que encontramos. 
+La idea de Banc d'exposition 1, marche aléatoire se me ocurrió observando los bancos que se encuentran en los espacios de exposición. Aunque son parte integrante del espacio, a menudo pasan desapercibidos o la gente no se toma la molestia de sentarse en ellos. Gracias a la robótica, el banco se mueve por sí solo en el espacio al son de motores y empujadores, según un recorrido programado aleatoriamente.  A pesar de esta dimensión robótica, los espectadores pueden sentarse en el banco para contemplar las obras que lo rodean. Basta con acercarse a menos de un metro del objeto y esperar a que el sonido de los motores se detenga: ¡es la señal de que el banco ha detectado a la persona y la invita a sentarse!
+
+![3](https://user-images.githubusercontent.com/127367351/231632653-c70390f5-f4fd-4af5-b234-73eeaced1edc.JPG)
